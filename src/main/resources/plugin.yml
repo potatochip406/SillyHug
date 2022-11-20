@@ -1,0 +1,8 @@
+name: SillyHug
+version: '${project.version}'
+main: me.sillygoose.sillyhug.SillyHug
+api-version: 1.19
+commands:
+  hug:
+    usage: /hug <playerName>
+    description: Hug a player
