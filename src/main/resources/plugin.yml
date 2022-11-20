@@ -5,4 +5,4 @@ api-version: 1.19
 commands:
   hug:
     usage: /hug <playerName>
-    description: Hug a player
+    description: Hug a player - 10s cooldown.
